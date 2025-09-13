@@ -1,2 +1,2 @@
-lolcat
-cowsay
+nodejs
+npm
